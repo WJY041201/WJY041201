@@ -1,5 +1,11 @@
 
-body,
-html {
-	cursor: url('./img/mouse.cur'),auto !important;
+
+body {
+  cursor:url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/mouse.cur),
+        default;
+}
+a,
+img {
+  cursor:url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/mouse.cur),
+        default;
 }
